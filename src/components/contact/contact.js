@@ -16,9 +16,9 @@ const Contact = () => (
                     <p><b>E-mail: </b></p>
                     <p><b>majo.martins@gmail.com</b></p>
                     <p><b>Site: </b>https://www.majodeveloper.com.br</p>
-                    <p><b>LinkedIn: </b>https://www.linkedin.com/in/majo-martins-66251b30/</p>
-                    <p><b>Instagram: </b>https://www.instagram.com/majo.martins/</p>
-                                 
+                    <p><b>LinkedIn: </b>https://www.linkedin.com/in/majo-martins-66251b30</p>
+                    <p><b>Instagram: </b>https://www.instagram.com/majo.martins</p>
+                                  
                 </div> 
             </Card>
             <Card>
